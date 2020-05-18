@@ -1,0 +1,23 @@
+img {
+    height: 10rem;
+    width: 10rem;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+.cargando {
+    padding: 10rem 10rem;
+    background-color: #f6c83f;
+}
+
+.carta {
+    background-color: #fff5cc;
+}
+
+.cuerpo-carta {
+    background-color: #cbc6b3;
+    font-weight: bolder;
+}

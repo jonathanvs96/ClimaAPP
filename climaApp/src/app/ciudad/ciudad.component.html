@@ -1,0 +1,8 @@
+<div class="hero" *ngIf="loaded">
+    <h1>Ciudad</h1>
+    <ul>
+        <li>Ciudad: {{infoCiudad.city || 'No Obtenido'}}</li>
+        <li>Pais: {{infoCiudad.country_name}}</li>
+        <li>Hora: {{ getHora() }}</li>
+    </ul>
+</div>

@@ -1,0 +1,16 @@
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    font-size: large;
+    font-weight: bold;
+}
+
+.hero {
+    padding: 5rem 5rem;
+    background-image: url(../../assets/img/58330.jpg);
+    background-position: top center;
+    background-size: cover;
+}
